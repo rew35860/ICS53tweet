@@ -1,4 +1,0 @@
-Prof. Wong said, "Welcome to ICS53!"
-"Oh, man" a student laughed.
-"First off, we are going to learn C! C is a high-level language."
-A student smiled and said, "High-level language....."    
